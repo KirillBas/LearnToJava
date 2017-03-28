@@ -1,0 +1,8 @@
+Badman 1234 Fedor 56 false
+ketgsd 2134 Derevo 1000000 false
+dfgdfg 213123 dssdfsd 123123 false
+Rumba 1234 Hulk 55 false
+Joker 1234 Kurt 45 false
+Dima 1234 Vasia 12 false
+God 7777 God 10000 true
+Bravo 1234 qkjewqwjeh 44 false
